@@ -50,7 +50,7 @@ Recreate the classic Generala rules while practicing core **C++ programming conc
 - **Language:** C++
 - **Paradigm:** Structured / Procedural Programming
 - **Interface:** Console (CLI)
-- **Tools:** GCC, Visual Studio Code
+- **Tools:** Code::Blocks
 
 ---
 
@@ -61,3 +61,4 @@ Recreate the classic Generala rules while practicing core **C++ programming conc
 ```bash
 git clone https://github.com/AlejandroReinich/generala-cpp.git
 ```
+
