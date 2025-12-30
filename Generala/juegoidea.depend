@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1761838133 source:c:\users\estudiante\desktop\juegoidea3\juegoidea\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1761836579 c:\users\estudiante\desktop\juegoidea3\juegoidea\funciones.h
+
+1761843064 source:c:\users\estudiante\desktop\juegoidea3\juegoidea\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1761835579 source:c:\users\estudiante\desktop\juegoidea3\juegoidea\combinaciones.cpp
+	<iostream>
+
+1764301625 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\combinaciones.cpp
+	<iostream>
+
+1764041956 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"combinaciones.h"
+
+1764041834 c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\funciones.h
+
+1764292588 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\main.cpp
+	<iostream>
+	<ctime>
+	"opcionesMenu.h"
+	"combinaciones.h"
+
+1762096592 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\volver a tirar.cpp
+	<iostream>
+
+1762175650 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\tirardenuevo.cpp
+	<iostream>
+	"funciones.h"
+
+1762998151 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\creditos.cpp
+	<iostream>
+	"funciones.h"
+
+1762436605 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\unjugador.cpp
+	<iostream>
+
+1762438414 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\jugar.cpp
+
+1764181615 c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\combinaciones.h
+
+1764040648 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\modoextra.cpp
+	<iostream>
+	"funciones.h"
+	"combinaciones.h"
+
+1764299431 c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\opcionesmenu.h
+
+1764298183 c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\jugadadedados.h
+
+1764301091 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\jugadadedados.cpp
+	<iostream>
+
+1764301480 source:c:\users\diego\desktop\programacion(jueves y viernes)\proyecto\juego\juegoidea\juegoidea\opcionesmenu.cpp
+	<iostream>
+	"jugadaDeDados.h"
+	"combinaciones.h"
+	"opcionesMenu.h"
+
+1765524846 source:c:\users\rhale\desktop\juegoidea\combinaciones.cpp
+	<iostream>
+
+1765524999 source:c:\users\rhale\desktop\juegoidea\jugadadedados.cpp
+	<iostream>
+
+1764292588 source:c:\users\rhale\desktop\juegoidea\main.cpp
+	<iostream>
+	<ctime>
+	"opcionesMenu.h"
+	"combinaciones.h"
+
+1764299431 c:\users\rhale\desktop\juegoidea\opcionesmenu.h
+
+1764181615 c:\users\rhale\desktop\juegoidea\combinaciones.h
+
+1764301480 source:c:\users\rhale\desktop\juegoidea\opcionesmenu.cpp
+	<iostream>
+	"jugadaDeDados.h"
+	"combinaciones.h"
+	"opcionesMenu.h"
+
+1764298183 c:\users\rhale\desktop\juegoidea\jugadadedados.h
+
