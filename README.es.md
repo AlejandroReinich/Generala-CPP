@@ -51,7 +51,7 @@ Implementar las reglas clásicas de la Generala mientras se practican conceptos 
 - **Lenguaje:** C++
 - **Paradigma:** Programación estructurada / procedural
 - **Interfaz:** Consola (CLI)
-- **Herramientas:** GCC, Visual Studio Code
+- **Herramientas:** Code::Blocks
 
 ---
 
@@ -62,3 +62,4 @@ Implementar las reglas clásicas de la Generala mientras se practican conceptos 
 ```bash
 git clone https://github.com/AlejandroReinich/generala-cpp.git
 ```
+
